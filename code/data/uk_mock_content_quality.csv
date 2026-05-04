@@ -1,0 +1,11 @@
+criterion,ref_mean,pezego_mean,delta,pezego_win_rate
+Relevance to case context,3.9,4.4,0.5,0.68
+Management option coverage,3.7,4.3,0.6,0.71
+Clarity and understandability,4.0,4.4,0.4,0.64
+Non-chemical actionability,3.6,4.2,0.6,0.72
+Professional-guideline alignment,3.8,4.5,0.7,0.74
+Ecological consideration,3.7,4.2,0.5,0.67
+Region/climate appropriateness,3.8,4.3,0.5,0.66
+Internal consistency,3.9,4.4,0.5,0.69
+Practical helpfulness,3.8,4.5,0.7,0.73
+Regulatory compliance,4.0,4.5,0.5,0.70
