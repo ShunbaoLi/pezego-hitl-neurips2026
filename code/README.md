@@ -16,15 +16,9 @@ For anonymous review, you can use an anonymized mirror (for example 4open):
 
 Note: this repository is code-only and does not include manuscript files.
 
-## What This Package Reproduces
+## Outputs
 
-- Main benchmark table from Ghana stream (`code/data/main_results.csv`)
-- Figure 3: main comparison (`figures/fig03_main_comparison.png`, generated)
-- Figure 4: latency distribution (`figures/fig04_latency_distribution.png`, generated)
-- Figure 5: HITL trend (`figures/fig05_hitl_trend.png`, generated)
-- Figure 6: tau ablation (`figures/fig06_tau_ablation.png`, generated)
-- Figure 7: user profile (`figures/fig07_user_profile.png`, generated)
-- Summary markdown and LaTeX table exports in `code/outputs/`
+Running the reproduction script will generate result figures and summary files from the data in `code/data/`.
 
 ## Environment Setup
 
