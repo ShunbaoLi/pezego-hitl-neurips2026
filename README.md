@@ -10,10 +10,6 @@ Public code repository:
 
 - Code URL: https://github.com/ShunbaoLi/pezego-hitl-neurips2026
 
-For anonymous review, you can use an anonymized mirror (for example 4open):
-
-- Anonymous URL: https://anonymous.4open.science/r/<repo-id>/
-
 Note: this repository is code-only and does not include manuscript files.
 
 ## Outputs
